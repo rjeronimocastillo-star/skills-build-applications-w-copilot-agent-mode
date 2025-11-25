@@ -6,6 +6,9 @@ venv
 # octofit tracker app
 # octfit-tracker
 
+# Ignore the per-project backend virtual env created by the workshop
+octofit-tracker/backend/venv
+
 # React node_modules
 node_modules
 /.pnp
